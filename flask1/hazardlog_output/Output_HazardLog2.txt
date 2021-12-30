@@ -1,0 +1,120 @@
+
+The actionsequence 1 is: {transition,pickUpPart,wait,transition,wait,transition}
+The relevant simulation run and affected body part: 35 and legs,
+The distance with nominalSequence is: 2
+The maximal collision force is: 708.82078069811N
+The collision force ratio is: 3.937893226100611
+-------------------
+The actionsequence 2 is: {transition,wait,pickUpPart,transition,wait,transition}
+The relevant simulation run and affected body part: 78 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 708.82078656094N
+The collision force ratio is: 3.9378932586718887
+-------------------
+The actionsequence 3 is: {transition,wait,pickUpPart,wait,transition,transition}
+The relevant simulation run and affected body part: 79 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 708.82190929341N
+The collision force ratio is: 3.9378994960745004
+-------------------
+The actionsequence 4 is: {wait,transition,pickUpPart,wait,transition,transition}
+The relevant simulation run and affected body part: 90 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 531.61446132539N
+The collision force ratio is: 2.9534136740299446
+-------------------
+The actionsequence 5 is: {transition,pickUpPart,wait,wait,transition,transition}
+The relevant simulation run and affected body part: 126 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 708.82078656094N
+The collision force ratio is: 3.9378932586718887
+-------------------
+The actionsequence 6 is: {transition,pickUpPart,putDownPart,pickUpPart,transition,wait}
+The relevant simulation run and affected body part: 163 and arms,
+The distance with nominalSequence is: 3
+The maximal collision force is: 121.93212173028N
+The collision force ratio is: 0.8128808115352
+-------------------
+The actionsequence 7 is: {transition,pickUpPart,transition,putDownPart,pickUpPart,transition}
+The relevant simulation run and affected body part: 183 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 531.61333273008N
+The collision force ratio is: 2.9534074040559997
+-------------------
+The actionsequence 8 is: {transition,pickUpPart,transition,putDownPart,pickUpPart,putDownPart}
+The relevant simulation run and affected body part: 184 and arms,
+The distance with nominalSequence is: 3
+The maximal collision force is: 122.6407440859N
+The collision force ratio is: 0.8176049605726666
+-------------------
+The actionsequence 9 is: {transition,pickUpPart,transition,putDownPart,pickUpPart,wait}
+The relevant simulation run and affected body part: 185 and arms,
+The distance with nominalSequence is: 2
+The maximal collision force is: 123.02267867603N
+The collision force ratio is: 0.8201511911735333
+-------------------
+The actionsequence 10 is: {wait,transition,pickUpPart,transition,putDownPart,pickUpPart}
+The relevant simulation run and affected body part: 191 and arms,
+The distance with nominalSequence is: 3
+The maximal collision force is: 121.24467610277N
+The collision force ratio is: 0.8082978406851333
+-------------------
+The actionsequence 11 is: {transition,wait,pickUpPart,putDownPart,transition,transition}
+The relevant simulation run and affected body part: 213 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 531.61446425682N
+The collision force ratio is: 2.9534136903156667
+-------------------
+The actionsequence 12 is: {transition,wait,transition,wait,transition,wait}
+The relevant simulation run and affected body part: 220 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 708.82078069811N
+The collision force ratio is: 3.937893226100611
+-------------------
+The actionsequence 13 is: {transition,wait,pickUpPart,wait,wait,transition}
+The relevant simulation run and affected body part: 245 and legs,
+The distance with nominalSequence is: 4
+The maximal collision force is: 354.24705002751N
+The collision force ratio is: 1.9680391668195
+-------------------
+The actionsequence 14 is: {transition,pickUpPart,putDownPart,transition,transition,wait}
+The relevant simulation run and affected body part: 250 and legs,
+The distance with nominalSequence is: 2
+The maximal collision force is: 707.14742546994N
+The collision force ratio is: 3.928596808166333
+-------------------
+The actionsequence 15 is: {transition,transition,transition,transition,transition,wait}
+The relevant simulation run and affected body part: 265 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 707.02976992334N
+The collision force ratio is: 3.927943166240778
+-------------------
+The actionsequence 16 is: {transition,transition,transition,wait,wait,wait}
+The relevant simulation run and affected body part: 279 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 531.61446132539N
+The collision force ratio is: 2.9534136740299446
+-------------------
+The actionsequence 17 is: {transition,wait,pickUpPart,wait,transition,wait}
+The relevant simulation run and affected body part: 291 and legs,
+The distance with nominalSequence is: 2
+The maximal collision force is: 531.38095908933N
+The collision force ratio is: 2.9521164393851667
+-------------------
+The actionsequence 18 is: {transition,transition,transition,wait,transition,wait}
+The relevant simulation run and affected body part: 294 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 708.82191222483N
+The collision force ratio is: 3.937899512360167
+-------------------
+The actionsequence 19 is: {transition,transition,wait,transition,transition,transition}
+The relevant simulation run and affected body part: 299 and legs,
+The distance with nominalSequence is: 3
+The maximal collision force is: 177.20464027379N
+The collision force ratio is: 0.9844702237432779
+-------------------
+Summary: 
+The total number of all different actionsequences: 19
+The average of all collision force ratio: 2.761111633091201
+The maximal collision force of all actionsequence: 708.82191222483N
+The average distance for all actionsequences is: 2.8421052631578947

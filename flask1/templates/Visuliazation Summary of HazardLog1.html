@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <!-- Bootstrap CSS -->
+    <link href="{{url_for('static', filename='bootstrap.min.css')}}" rel="stylesheet" type = "text/css"/>
+</head>
+<style>
+		th,td {padding:10px;}
+</style>
+<body>
+<div class = "container" style = "text-align:center">
+<table><tr>
+<td><center><img src = "{{ url_for('static', filename='KIT.png')}}" width="150px" alt = "image load error" /></center></td>
+<td><center><img src = "{{ url_for('static', filename='IPR.png')}}" width="1100px" alt = "image load error" /></center></td>
+</tr></table>
+<h1>Visuliazation Summary of HazardLogs</center></h1>
+</div>
+<div class = "container">
+	<h2>Part 1: Distance Distribution</h2>
+	<p>Action Sequence abbreviations are: wait -> w, transition -> t, pickUpPart -> u, putDownPart -> d.</p>
+	<p>Nominal sequence is "tuwtdw". In part 1, distance data between hazard sequence and nominal sequence has been visualized.</p>
+	{%for path in img_path_list%}
+	<img src = "{{ url_for('static', filename = path)}}" width = "1000px" alt = "image load error"/>
+	{%endfor%}
+
+{% if document_number > 1 %}
+	<div class = "container">
+		<h2>Part 2 : Summary of all HazardLogs</h2>
+		<h3>2.1 Affected Bodyparts</h3>
+			<table>
+				<tr>
+					<td><img src = "{{ url_for('static', filename='img/Affected Bodypart of all Hazardlogs.png')}}" width = "350"  alt = "image load error" /> </td>
+					<td><img src = "{{ url_for('static', filename='Screenshot Leg.png')}}" width = "400" alt = "image load error" /> </td>
+					<td><img src = "{{ url_for('static', filename='Screenshot Arm.png')}}" width = "400"  alt = "image load error" /> </td>
+				</tr>
+				<tr>
+					<td><center>Figure 2.1 Affected Bodyparts</center></td>
+					<td><center>Figure 2.2 Leg Hazard</center></td>
+					<td><center>Figure 2.3 Arm Hazard</center></td>
+				</tr>
+			</table>
+		<h3>2.2 Force Ratio</h3>
+			<div style = "text-align:center">
+			<img src = "{{ url_for('static', filename='img/Maxmal force ratio and average force ratio.png')}}" alt = "image load error" />
+			<p>Figure 2.4 Maxmal&Average force ratio</p>
+			</div>
+		<h3>2.3 Average Distance</h3>
+			<div style = "text-align:center">
+			<img src = "{{ url_for('static', filename='img/Average Distance.png')}}" alt = "image load error" />
+			<p>Figure 2.5 Average Distance for all HazardLogs</p>
+			</div>
+	</div>
+{% else %}
+	<div class = "container">
+		<h2>Part 2 : Affected Bodyparts</h2>
+			<table>
+				<tr>
+					<td><img src = "{{ url_for('static', filename='img/Affected Bodypart of all Hazardlogs.png')}}" width = "350"  alt = "image load error" /> </td>
+					<td><img src = "{{ url_for('static', filename='Screenshot Leg.png')}}" width = "400" alt = "image load error" /> </td>
+					<td><img src = "{{ url_for('static', filename='Screenshot Arm.png')}}" width = "400"  alt = "image load error" /> </td>
+				</tr>
+				<tr>
+					<td><center>Figure 2.1 Affected Bodyparts</center></td>
+					<td><center>Figure 2.2 Leg Hazard</center></td>
+					<td><center>Figure 2.3 Arm Hazard</center></td>
+				</tr>
+			</table>
+	</div>
+{%endif%}
+</body>
+</html>

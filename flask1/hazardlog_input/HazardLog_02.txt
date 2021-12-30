@@ -1,0 +1,153 @@
+
+-----------------
+ Simulation run: 35
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82078069811N
+ In Action: transition (6)
+ In Action Sequence: {transition,pickUpPart,wait,transition,wait,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 78
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82078656094N
+ In Action: transition (6)
+ In Action Sequence: {transition,wait,pickUpPart,transition,wait,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 79
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82190929341N
+ In Action: transition (6)
+ In Action Sequence: {transition,wait,pickUpPart,wait,transition,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 90
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 531.61446132539N
+ In Action: transition (6)
+ In Action Sequence: {wait,transition,pickUpPart,wait,transition,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 126
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82078656094N
+ In Action: transition (6)
+ In Action Sequence: {transition,pickUpPart,wait,wait,transition,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 163
+ Affected Body Part: arms
+ Collision Force Limit: 150N
+ Collision Force: 121.93212173028N
+ In Action: wait (6)
+ In Action Sequence: {transition,pickUpPart,putDownPart,pickUpPart,transition,wait}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 183
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 531.61333273008N
+ In Action: transition (6)
+ In Action Sequence: {transition,pickUpPart,transition,putDownPart,pickUpPart,transition}
+ With parameters: 0.69,1.22,0.69}
+-----------------
+ Simulation run: 184
+ Affected Body Part: arms
+ Collision Force Limit: 150N
+ Collision Force: 122.6407440859N
+ In Action: pickUpPart (5)
+ In Action Sequence: {transition,pickUpPart,transition,putDownPart,pickUpPart,putDownPart}
+ With parameters: 1.36,0.68,1.3}
+-----------------
+ Simulation run: 185
+ Affected Body Part: arms
+ Collision Force Limit: 150N
+ Collision Force: 123.02267867603N
+ In Action: wait (6)
+ In Action Sequence: {transition,pickUpPart,transition,putDownPart,pickUpPart,wait}
+ With parameters: 1.31,0.69,0.79}
+-----------------
+ Simulation run: 191
+ Affected Body Part: arms
+ Collision Force Limit: 150N
+ Collision Force: 121.24467610277N
+ In Action: pickUpPart (6)
+ In Action Sequence: {wait,transition,pickUpPart,transition,putDownPart,pickUpPart}
+ With parameters: 0.845,0.8,1.115}
+-----------------
+ Simulation run: 213
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 531.61446425682N
+ In Action: transition (6)
+ In Action Sequence: {transition,wait,pickUpPart,putDownPart,transition,transition}
+ With parameters: 0.9,1.15,1.18}
+-----------------
+ Simulation run: 220
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82078069811N
+ In Action: transition (3)
+ In Action Sequence: {transition,wait,transition,wait,transition,wait}
+ With parameters: 1.29,1.37,0.71}
+-----------------
+ Simulation run: 245
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 354.24705002751N
+ In Action: transition (6)
+ In Action Sequence: {transition,wait,pickUpPart,wait,wait,transition}
+ With parameters: 1.26,1.34,1.33}
+-----------------
+ Simulation run: 250
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 707.14742546994N
+ In Action: transition (5)
+ In Action Sequence: {transition,pickUpPart,putDownPart,transition,transition,wait}
+ With parameters: 0.695,1.21125,0.65375}
+-----------------
+ Simulation run: 265
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 707.02976992334N
+ In Action: transition (5)
+ In Action Sequence: {transition,transition,transition,transition,transition,wait}
+ With parameters: 1.07109375,0.90859375,0.99203125}
+-----------------
+ Simulation run: 279
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 531.61446132539N
+ In Action: transition (2)
+ In Action Sequence: {transition,transition,transition,wait,wait,wait}
+ With parameters: 0.705,0.83,1.015}
+-----------------
+ Simulation run: 291
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 531.38095908933N
+ In Action: transition (5)
+ In Action Sequence: {transition,wait,pickUpPart,wait,transition,wait}
+ With parameters: 0.8,0.67,0.63}
+-----------------
+ Simulation run: 294
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82191222483N
+ In Action: transition (2)
+ In Action Sequence: {transition,transition,transition,wait,transition,wait}
+ With parameters: 0.71,0.67,1.24}
+-----------------
+ Simulation run: 299
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 177.20464027379N
+ In Action: transition (5)
+ In Action Sequence: {transition,transition,wait,transition,transition,transition}
+ With parameters: 1.135,1.175,1.105}

@@ -1,0 +1,122 @@
+
+-----------------
+ Simulation run: 35
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82078069811N
+ In Action: transition (6)
+ In Action Sequence: {transition,pickUpPart,wait,transition,wait,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 78
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82078656094N
+ In Action: transition (6)
+ In Action Sequence: {transition,wait,pickUpPart,transition,wait,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 79
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82190929341N
+ In Action: transition (6)
+ In Action Sequence: {transition,wait,pickUpPart,wait,transition,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 90
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 531.61446132539N
+ In Action: transition (6)
+ In Action Sequence: {wait,transition,pickUpPart,wait,transition,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 126
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82078656094N
+ In Action: transition (6)
+ In Action Sequence: {transition,pickUpPart,wait,wait,transition,transition}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 163
+ Affected Body Part: arms
+ Collision Force Limit: 150N
+ Collision Force: 121.93212173028N
+ In Action: wait (6)
+ In Action Sequence: {transition,pickUpPart,putDownPart,pickUpPart,transition,wait}
+ With parameters: 1,1,1}
+-----------------
+ Simulation run: 180
+ Affected Body Part: arms
+ Collision Force Limit: 150N
+ Collision Force: 122.19614801092N
+ In Action: putDownPart (4)
+ In Action Sequence: {transition,pickUpPart,transition,putDownPart,pickUpPart,transition}
+ With parameters: 0.69,1.34,1.29}
+-----------------
+ Simulation run: 182
+ Affected Body Part: arms
+ Collision Force Limit: 150N
+ Collision Force: 122.63118397708N
+ In Action: pickUpPart (5)
+ In Action Sequence: {transition,pickUpPart,transition,putDownPart,pickUpPart,putDownPart}
+ With parameters: 1.26,0.73,1.33}
+
+-----------------
+ Simulation run: 188
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82191222483N
+ In Action: transition (3)
+ In Action Sequence: {transition,pickUpPart,transition,putDownPart,pickUpPart,wait}
+ With parameters: 0.860625,0.9246875,1.164375}
+-----------------
+ Simulation run: 199
+ Affected Body Part: arms
+ Collision Force Limit: 150N
+ Collision Force: 122.66971100937N
+ In Action: putDownPart (5)
+ In Action Sequence: {transition,pickUpPart,wait,transition,putDownPart,pickUpPart}
+ With parameters: 0.66,1.22,1.28}
+-----------------
+ Simulation run: 217
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.60985181452N
+ In Action: transition (6)
+ In Action Sequence: {transition,wait,pickUpPart,putDownPart,transition,transition}
+ With parameters: 1.12,1.14,0.88}
+-----------------
+ Simulation run: 226
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82190929341N
+ In Action: transition (3)
+ In Action Sequence: {transition,wait,transition,wait,transition,wait}
+ With parameters: 1.2,0.67,0.66}
+-----------------
+ Simulation run: 241
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82078069811N
+ In Action: transition (3)
+ In Action Sequence: {transition,wait,transition,wait,wait,transition}
+ With parameters: 1.21,1.145,0.82}
+-----------------
+ Simulation run: 242
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 354.41003928216N
+ In Action: transition (6)
+ In Action Sequence: {transition,wait,pickUpPart,wait,wait,transition}
+ With parameters: 1.2,0.74,0.7}
+-----------------
+ Simulation run: 243
+ Affected Body Part: legs
+ Collision Force Limit: 180N
+ Collision Force: 708.82190929341N
+ In Action: transition (4)
+ In Action Sequence: {transition,pickUpPart,putDownPart,transition,transition,wait}
+ With parameters: 1.22,1.24,0.79}
