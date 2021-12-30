@@ -1,0 +1,36 @@
+
+The actionsequence 1 is: {transition,pickUpPart,wait,transition,wait,transition}
+The affected body part: legs
+The distance with nominalSequence is: 2
+The maximal collision force is: 708.82078069811N
+The collision force ratio is: 3.937893226100611
+-------------------
+The actionsequence 2 is: {transition,wait,pickUpPart,transition,wait,transition}
+The affected body part: legs
+The distance with nominalSequence is: 3
+The maximal collision force is: 708.82078656094N
+The collision force ratio is: 3.9378932586718887
+-------------------
+The actionsequence 3 is: {transition,wait,pickUpPart,wait,transition,transition}
+The affected body part: legs
+The distance with nominalSequence is: 3
+The maximal collision force is: 708.82190929341N
+The collision force ratio is: 3.9378994960745004
+-------------------
+The actionsequence 4 is: {wait,transition,pickUpPart,wait,transition,transition}
+The affected body part: legs
+The distance with nominalSequence is: 3
+The maximal collision force is: 531.61446132539N
+The collision force ratio is: 2.9534136740299446
+-------------------
+The actionsequence 5 is: {transition,pickUpPart,putDownPart,pickUpPart,transition,wait}
+The affected body part: arms
+The distance with nominalSequence is: 3
+The maximal collision force is: 121.93212173028N
+The collision force ratio is: 0.8128808115352
+-------------------
+Summary: 
+The total number of all different actionsequences: 5
+The average of all collision force ratio: 3.115996093282429
+The maximal collision force of all actionsequence: 708.82190929341N
+The average distance for all actionsequences is: 2.8
